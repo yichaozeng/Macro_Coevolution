@@ -1,0 +1,8 @@
+(
+sbatch Desktop/model_rcpp_hpc_OneDrive/slurm/hybr_lik_ex.slurm
+sbatch Desktop/model_rcpp_hpc_OneDrive/slurm/hybr_lik_noex.slurm
+sbatch Desktop/model_rcpp_hpc_OneDrive/slurm/prop_col_ex.slurm
+sbatch Desktop/model_rcpp_hpc_OneDrive/slurm/prop_col_noex.slurm
+sbatch Desktop/model_rcpp_hpc_OneDrive/slurm/delta_ex.slurm
+sbatch Desktop/model_rcpp_hpc_OneDrive/slurm/delta_noex.slurm
+)

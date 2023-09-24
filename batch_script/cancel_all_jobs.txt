@@ -1,0 +1,1 @@
+squeue -u yichaozeng | awk '{print $1}' | tail -n+2 | xargs scancel
