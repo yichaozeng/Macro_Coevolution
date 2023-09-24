@@ -11,9 +11,10 @@ This project is for simulating eco-evolutionary dynamics described in "Coevoluti
 
 ## Setup
 1. Copy all files to your working directory on the computing cluster.
-2. Create two folders under the working directory, one named "Output_extinction" and the other named "Output_no_extinction". Extinction vs. no extinction are obsolete features of the model that have been nullified, but the folder names need to be keep intact to generate the desired number of replicates.
-3. Replace the default working directory "Desktop/model_rcpp_hpc_OneDrive" with your own working directory in the code.
-4. Depending on the user's R library, packages will need to be installed before they can be used.
+2. Unzip 'slurm.zip' and 'control.zip'.
+3. Create two folders under the working directory, one named "Output_extinction" and the other named "Output_no_extinction". Extinction vs. no extinction are obsolete features of the model that have been nullified, but the folder names need to be keep intact to generate the desired number of replicates.
+4. Replace the default working directory "Desktop/model_rcpp_hpc_OneDrive" with your own working directory in the code.
+5. Depending on the user's R library, packages will need to be installed before they can be used.
 
 ## Simulation
 To simulate the described eco-evolutionary dynamics:
