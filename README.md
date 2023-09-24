@@ -1,5 +1,4 @@
-# Project Title
-Coevolution-induced stabilizing and destabilizing selection shapes species richness in clade codiversification
+# Coevolution-induced stabilizing and destabilizing selection shapes species richness in clade codiversification
 
 ## Description
 This project is for simulating eco-evolutionary dynamics described in "Coevolution-induced stabilizing and destabilizing selection shapes species richness in clade codiversification" authored by Yichao Zeng, David H. Hembry, and John J. Wiens. It is written in the R language (4.0.0) and to be run on computing clusters running on Slurm Workload Manager.
