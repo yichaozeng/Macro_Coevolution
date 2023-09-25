@@ -35,7 +35,9 @@ To simulate the described eco-evolutionary dynamics:
 
 5. To read in the quantified variables: Run 'read_in_data.R'.
 
-6. To visualize results: Run 'figure_continuous.R'. The plot will be saved as a PDF to your work directory.
+6. To visualize the relationshipts between selective regime, degree of dispersal limitation, genetic differentiation, and species richness accumulated: Run 'figure_continuous.R'. The plot will be saved as a PDF to your work directory.
+
+7. To visualize, for each simulated scenario, a typical time series where trait value changes over time: Run 'trait_single_cell_zoom_in_out.R'. The plot will be saved as a PDF to your work directory.
 
 ## Contact information
 - Any questions or comments are welcome and should be sent to Yichao Zeng (yichaozeng.weebly.com).
